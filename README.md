@@ -76,9 +76,3 @@
 
 <br>
 
-<br/>
-
-## :trophy: Git profile Trophies
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=g0110&layout=compact&theme=algolia" alt="g0110" /></a> </p>
-
