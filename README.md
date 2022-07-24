@@ -36,8 +36,6 @@
 
 ## 🛠️ My Skills
 
-### 👉 Programming
-
 <p align="center"> 
   &emsp;
 
